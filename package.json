@@ -87,7 +87,7 @@
     "resolve-url-loader": "2",
     "sass-loader": "7.2.0",
     "semver": "6.3.0",
-    "sequelize": "^5.21.2",
+    "sequelize": "^6.29.0",
     "sqlite3": "^4.1.0",
     "style-loader": "1.0.0",
     "terser-webpack-plugin": "1.4.1",
